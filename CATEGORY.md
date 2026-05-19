@@ -62,4 +62,3 @@ It is a discipline — a way of structuring the relationship between a business 
 ## The Category in One Sentence
 
 Compounding Marketing is what happens when the intelligence behind your marketing lives inside your business — not your agency's.
-===END FILE===
