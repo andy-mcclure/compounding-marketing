@@ -64,4 +64,3 @@ Surfaces gaps in the marketing system relative to what it would take to fill a w
 ## The Ownership Commitment
 
 At any point, the client can export everything built about their business — context files, strategic intelligence, frameworks. Portable by design. This isn't a marketing promise. It's a structural commitment baked into how the work is done.
-===END FILE===
