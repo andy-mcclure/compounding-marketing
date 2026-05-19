@@ -71,4 +71,3 @@ Founded 2009 — the deliberate choice of fractional over W-2 at the moment of l
 ## The Book as Credibility Asset
 
 *The In-House Growth Machine* is proof of category leadership — not because it was published, but because it contains a complete, original framework that did not exist before Andy McClure named it. It functions simultaneously as top-of-funnel content, proof of expertise, and category definition.
-===END FILE===
