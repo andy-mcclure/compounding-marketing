@@ -113,4 +113,3 @@ Creates informed prospects who arrive at the Marketing Ownership Audit already u
 - If you're not the marketer, what is your role in your own marketing system?
 - What does it look like to own a marketing asset rather than manage a marketing vendor?
 - How do you lead a marketing system without understanding every tool inside it?
-===END FILE===
