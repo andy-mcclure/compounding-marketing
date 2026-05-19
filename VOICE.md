@@ -73,4 +73,3 @@ reset / resetting — compound / compounding — own / ownership — architectur
 - States conclusions first, then supports them
 - Does not soften claims that are accurate
 - Does not inflate claims that require evidence
-===END FILE===
