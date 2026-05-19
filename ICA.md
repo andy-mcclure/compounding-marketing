@@ -75,4 +75,3 @@ All primary ICA characteristics apply, plus:
 **Service revenue dependency.** The equipment sale is often the entry point. The recurring service contract is where the relationship compounds. Marketing must serve both.
 
 **Technical complexity.** The buyer understands the equipment. Marketing that oversimplifies loses credibility immediately.
-===END FILE===
