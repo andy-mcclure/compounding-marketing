@@ -144,6 +144,3 @@ And it starts with knowing where your marketing intelligence lives right now.
 
 *[About Andy] | [Read the Full Manifesto]*
 
----
-
-Ready to save your Manifesto to record? It will carry over to future sessions and serve as the foundation for every article we build.
