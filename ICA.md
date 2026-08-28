@@ -4,11 +4,13 @@
 
 ## Primary ICA
 
-Owner or operator of an independent service business doing **$2M–$50M in annual revenue**.
+Owner or operator of an independent service business doing **$2M–$20M in annual revenue**.
 
 Most commonly:
-- Specialty trades and painting contractors ($2M–$10M)
-- Industrial equipment sales and service ($5M–$50M)
+- Specialty trades and painting contractors ($2M–$8M)
+- Industrial equipment sales and service ($5M–$20M)
+
+*Public-quoting rule (set Aug 28, 2026): use $2M–$20M for general/mixed-audience content and $2M–$8M for painting-contractor-specific content — see VOICE.md. Retire the old $2M–$50M ceiling and the audit landing page's $10M–$20M qualifier from anything Leo says publicly; those don't get quoted anymore. Note: the industrial-equipment figure above was narrowed from $5M–$50M to fit the new $20M ceiling — flag to Andy if that's not the intent for actual client-qualification purposes, as opposed to what gets said on LinkedIn.*
 
 ---
 
@@ -51,6 +53,8 @@ He has tried to delegate marketing before. It didn't hold. Either the agency did
 ---
 
 ## The Painting Contractor Variant
+
+**Revenue: $2M–$8M** — narrower than the general range above; this is the number to quote in painting-contractor-specific content.
 
 All primary ICA characteristics apply, plus:
 

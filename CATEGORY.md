@@ -1,5 +1,27 @@
 # Category: Compounding Marketing
 
+*Last updated August 28, 2026 — binds the August 16, 2026 Brand Consolidation Decision into this file. Read the section below first; it governs how everything after it gets said in public.*
+
+---
+
+## Public-Facing Language (Read This First)
+
+Compounding Marketing is the methodology. It is not what a prospect hears first.
+
+As of August 16, 2026, the market-facing phrase for this idea is **"digital employees you own."** It says the same thing the category claim below says — plainly, in one line, without asking a prospect to learn a framework name before they understand the pitch. Compounding Marketing is why it works. "Digital employees you own" is what a prospect actually hears.
+
+Both are one idea at two altitudes:
+
+- **Market-facing** (LinkedIn, ads, headlines, first conversations): digital employees you own.
+- **Underneath, doing the explaining** (second conversation onward, long-form content, sales collateral): Compounding Marketing — the discipline of building marketing systems, including the AI inside them, that get smarter over time because the intelligence lives inside the business that owns it.
+
+**Retired — do not use in new public content:**
+
+- **myCMO** — retired August 16, 2026. Failed trademark diligence: a live, likely-incontestable USPTO registration in a conflicting class, plus an active competitor operating under a near-identical name offering the same service. Not returning, regardless of what the naming sprint below produces.
+- **"The In-House Growth Machine" as a public-facing name** — retired from public use August 16, 2026. The five-part architecture is still real and still how the work gets built (see FRAMEWORKS.md) — but the name is now internal architecture vocabulary, not something a prospect hears. The book and theihgm.ai remain published, but the funnel is parked: do not promote the book or drive new content to theihgm.ai without explicit sign-off from Andy.
+
+**Interim brand:** Longview Marketing carries all public content — LinkedIn, the website, sales conversations — until a bounded naming sprint (deadline September 30, 2026) either clears a permanent, ownable name or confirms "Longview Marketing, repositioned" as the answer. Do not introduce a new brand name into public content ahead of that decision.
+
 ---
 
 ## The Category Claim
@@ -61,4 +83,4 @@ It is a discipline — a way of structuring the relationship between a business 
 
 ## The Category in One Sentence
 
-Compounding Marketing is what happens when the intelligence behind your marketing lives inside your business — not your agency's.
+Compounding Marketing is what happens when the intelligence behind your marketing lives inside your business — not your agency's. In one line a prospect actually says out loud: digital employees you own.

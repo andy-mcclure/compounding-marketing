@@ -1,3 +1,7 @@
+> **⚠️ Terminology note — added August 28, 2026.** Per the August 16, 2026 Brand Consolidation Decision, "In-House Growth Machine" (referenced in "What I Build" below) is now internal architecture vocabulary only — not a public-facing name. When adapting this manifesto for new public content, lead with "digital employees you own" (see CATEGORY.md) instead of the framework name. The manifesto's prose below stands as originally written and is still usable for its argument and rhythm — just don't surface "In-House Growth Machine" as the public takeaway phrase in anything new drawn from it.
+
+---
+
 # The Compounding Marketing Manifesto
 
 ## You Don't Have a Marketing Problem. You Have an Ownership Problem.

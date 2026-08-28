@@ -1,3 +1,7 @@
+> **⚠️ Terminology note — added August 28, 2026.** This file describes the published book as written. Its title, arguments, and quotes are locked and cannot be revised after publication, and nothing below has been altered. But per the August 16, 2026 Brand Consolidation Decision, two of its central public terms are now retired from *new* public-facing content: "In-House Growth Machine" is internal architecture vocabulary only going forward (see CATEGORY.md), and the book/theihgm.ai funnel itself is parked. When drawing on this file for new content — LinkedIn posts included — translate the book's arguments through the current public terms in CATEGORY.md and VOICE.md. Lead with "digital employees you own," not the framework name. The book itself is fine to reference as a personal credibility line — "Andy wrote a book on this" sits on the same shelf as the Cornell degree or the 17 years — but it is not a promotional priority: no CTA to theihgm.ai, no dedicated "read my book" content, and don't route conversation there. This note governs what gets said about the book going forward. It does not change what the book says.
+
+---
+
 # The In-House Growth Machine
 
 **Full title:** *The In-House Growth Machine: Build Your Own AI-Powered Marketing System and Escape the Agency Trap*
