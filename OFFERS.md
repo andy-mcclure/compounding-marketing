@@ -4,7 +4,7 @@
 
 ## The Core Offer: Compounding Marketing System Installation
 
-Design and installation of the In-House Growth Machine inside a client's business.
+Design and installation of a Compounding Marketing system inside a client's business — digital employees you own, built on the In-House Growth Machine architecture (see FRAMEWORKS.md).
 
 Built inside the client's accounts, on the client's infrastructure, producing intelligence that belongs to the client permanently. Longview Marketing functions as architect and builder. The client is the owner. When the engagement evolves or ends, the system stays.
 

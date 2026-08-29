@@ -1,13 +1,11 @@
-> **⚠️ Terminology note — added August 28, 2026.** This file describes the published book as written. Its title, arguments, and quotes are locked and cannot be revised after publication, and nothing below has been altered. But per the August 16, 2026 Brand Consolidation Decision, two of its central public terms are now retired from *new* public-facing content: "In-House Growth Machine" is internal architecture vocabulary only going forward (see CATEGORY.md), and the book/theihgm.ai funnel itself is parked. When drawing on this file for new content — LinkedIn posts included — translate the book's arguments through the current public terms in CATEGORY.md and VOICE.md. Lead with "digital employees you own," not the framework name. The book itself is fine to reference as a personal credibility line — "Andy wrote a book on this" sits on the same shelf as the Cornell degree or the 17 years — but it is not a promotional priority: no CTA to theihgm.ai, no dedicated "read my book" content, and don't route conversation there. This note governs what gets said about the book going forward. It does not change what the book says.
-
----
-
 # The In-House Growth Machine
 
 **Full title:** *The In-House Growth Machine: Build Your Own AI-Powered Marketing System and Escape the Agency Trap*
 
 **Author:** Andy McClure
 **Published:** 2025
+
+*This book uses "In-House Growth Machine" throughout as the name of the architecture. That architecture is unchanged and still how the work gets built (see FRAMEWORKS.md) — the public shorthand for it today is digital employees you own (see CATEGORY.md). The book itself sits alongside Andy's other credentials as a credibility signal, not as the primary call to action.*
 
 ---
 
@@ -51,69 +49,3 @@ AI is a force multiplier — it amplifies whatever structure it operates inside.
 Top of funnel and proof of category simultaneously.
 
 Creates informed prospects who arrive at the Marketing Ownership Audit already understanding why ownership matters. Shortens the sales conversation significantly. The book does not sell the engagement — it sells the thesis. The audit sells the engagement.
-===END FILE===
-```
-
----
-
-```
-===FILE: ARTICLES.md===
-# Article Stack
-
----
-
-## The Foundational Question
-
-*Why does marketing keep failing for service businesses — no matter how much they spend or who they hire?*
-
----
-
-## The Ownership Questions
-
-- What does it actually mean to own your marketing — and how do you know if you do?
-- If your agency walked tomorrow, what would you actually keep?
-- Who owns the intelligence inside your marketing — and why does it matter more now than it did five years ago?
-- What's the difference between owning marketing outputs and owning a marketing system?
-
----
-
-## The AI Ownership Questions
-
-- Where does AI memory live — and whose account is it building intelligence in?
-- Why does your agency's use of AI make the ownership problem more urgent, not less?
-- What happens to the AI intelligence your agency has built about your business when you switch vendors?
-- How do you own AI-powered marketing without becoming an AI expert?
-
----
-
-## The System Questions
-
-- What is the difference between a marketing tactic and a marketing system — and why does it matter?
-- Why do tactics burn out and systems compound?
-- What are the five components every independent service business needs in its marketing system?
-- How do you build a marketing system without becoming the person who runs it?
-
----
-
-## The Vendor Relationship Questions
-
-- What should you expect from a marketing agency — and what should you never accept?
-- How do you know if your agency is building an asset for you or for themselves?
-- What does a marketing engagement look like when the agency builds inside your environment instead of their own?
-- How do you transition from vendor dependency to system ownership without blowing up your pipeline?
-
----
-
-## The Seasonal and Vertical Questions — Painting Contractor Segment
-
-- Why do good painting contractors lose crew every winter — and what does marketing have to do with it?
-- What would it take to fill a winter calendar with interior work before exterior season ends?
-- Why does the painting contractor who wins in winter not just "do more marketing" — and what do they do instead?
-
----
-
-## The Identity Questions
-
-- If you're not the marketer, what is your role in your own marketing system?
-- What does it look like to own a marketing asset rather than manage a marketing vendor?
-- How do you lead a marketing system without understanding every tool inside it?

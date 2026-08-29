@@ -1,9 +1,5 @@
 # Voice Standards
 
-*Last updated August 28, 2026 — reconciles three prior voice descriptions (this file's original text, the HyperTuned "Confident Operator" memory, and the June 2026 public-register preference) into one standard, and binds new terminology from the August 16, 2026 Brand Consolidation Decision. Nothing below removes a rule that existed before; it merges them.*
-
----
-
 ## The Voice
 
 Andy McClure's voice is the voice of an engineer who learned to communicate — and, in public-facing content, of a trusted advisor sitting across the table rather than a marketer running a pitch.
@@ -20,9 +16,9 @@ The personality above is always on. Dial the register by what the content is doi
 
 **Teaching / depth content** — the book, long-form posts explaining the system, sales collateral, anything walking a reader through *how* the machine works: the original precision runs at full strength. Short sentences to make a point, longer ones to build an argument. States conclusions first, then supports them. One analogy per idea, used precisely, when an analogy genuinely clarifies.
 
-**First-contact / skeptical-prospect content** — most LinkedIn posts, video, anything a cold or warm-but-wary prospect meets first: dial toward restraint. This is standing instruction from Andy's June 2026 feedback and it holds:
+**First-contact / skeptical-prospect content** — most LinkedIn posts, video, anything a cold or warm-but-wary prospect meets first: dial toward restraint.
 
-- No clever or cute metaphors. Andy has rejected these live in review ("unserious and marketing-y") — a visible device undercuts the "trusted advisor" premise the whole register depends on.
+- No clever or cute metaphors — a visible device undercuts the trusted-advisor premise the whole register depends on.
 - No staged hypotheticals ("imagine a competitor in your market doing X"). Readers clock these as a rhetorical trick instantly. Instead, state the verifiable macro reality, then honestly concede what isn't known: *"I don't know if one's entered your market yet, but the conditions are here."* Honesty about uncertainty builds more trust than false certainty does.
 - No slogan-y punchlines or gimmick text cards. If a post cites data, name the source plainly.
 - Preferred cadence: calm, first-person, peer-level. *"Here's where I'd slow you down." "I understand the instinct." "I'm not raising this to worry you."* Concern is created by the facts, not by copywriting energy.
@@ -58,19 +54,12 @@ The signature phrases below built on analogy are strong teaching-content assets 
 - "You're paying to build an asset you don't control."
 - "We're not trapping you with our AI. You're training yours."
 - "An employee that works twenty-four hours a day, gets smarter, and will never leave you — but only if you're the one training it."
-
-**⚠️ On hold — do not use in new content:** *"You're not supposed to be the marketer. You're the architect of the machine."* Published in the book, but it contradicts current canon: this repo's category doctrine (see CATEGORY.md) holds that the owner is not the architect of the system — they're the owner of the asset the system produces. Use the owner-of-the-asset frame instead until Andy reconciles the two lines himself.
-
-**New — market-facing, post-August 16, 2026:**
-
 - "Digital employees you own."
-- "I set service business owners up with digital employees they actually own — marketing that gets smarter instead of resetting every time they switch agencies." (Locked August 28, 2026 — first-person, general ICA. This is the referral sentence; quote it verbatim.)
+- "I set service business owners up with digital employees they actually own — marketing that gets smarter instead of resetting every time they switch agencies." (This is the referral sentence — quote it verbatim.)
 
 ---
 
 ## Revenue Range to Quote Publicly
-
-*Set August 28, 2026 — replaces the old $2M–$50M umbrella and the audit landing page's $10M–$20M qualifier for anything said on LinkedIn.*
 
 - **Painting-contractor-specific content:** $2M–$8M
 - **General or mixed-audience content:** $2M–$20M
@@ -96,7 +85,6 @@ reset / resetting — compound / compounding — own / ownership — architectur
 - "Synergy" / "leverage" (as verb) / "ecosystem"
 - "VP of Marketing" as the owner's role
 - "Composite" — to describe any example, case study, or client detail (see Truth Anchor Rule below)
-- "myCMO" or "In-House Growth Machine" as public-facing names (see CATEGORY.md — retired to internal-only, August 16, 2026)
 
 ---
 

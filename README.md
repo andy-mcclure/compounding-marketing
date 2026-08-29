@@ -10,11 +10,9 @@ Every expression of this work — articles, offers, presentations, platform prof
 
 ---
 
-## What Is Compounding Marketing?
+## Start Here
 
-Compounding Marketing is the discipline of building marketing systems that get smarter over time — where every campaign, every piece of content, and every customer interaction builds on the last, because the intelligence lives inside the business that owns it.
-
-It is the alternative to reset: the condition most service businesses operate in, where accumulated marketing intelligence walks out the door every time a vendor relationship ends.
+The market-facing description of this work is **digital employees you own** — see CATEGORY.md for the full category definition and public language. Read every other file in this repository through that lens.
 
 ---
 
@@ -30,7 +28,7 @@ It is the alternative to reset: the condition most service businesses operate in
 | [OFFERS.md](OFFERS.md) | Offer architecture and engagement model |
 | [BOOK.md](BOOK.md) | The In-House Growth Machine — book signals and core arguments |
 | [ARTICLES.md](ARTICLES.md) | Article stack — foundational questions and content architecture |
-| [MANIFESTO.md](MANIFESTO.md) | Category manifesto — pending (Stephen) |
+| [MANIFESTO.md](MANIFESTO.md) | Category manifesto |
 
 ---
 
@@ -46,5 +44,4 @@ It is the alternative to reset: the condition most service businesses operate in
 
 ---
 
-*Maintained by Longview Marketing. Last updated 2025.*
-===END FILE===
+*Maintained by Longview Marketing. Last updated August 2026.*

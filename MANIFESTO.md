@@ -1,8 +1,6 @@
-> **⚠️ Terminology note — added August 28, 2026.** Per the August 16, 2026 Brand Consolidation Decision, "In-House Growth Machine" (referenced in "What I Build" below) is now internal architecture vocabulary only — not a public-facing name. When adapting this manifesto for new public content, lead with "digital employees you own" (see CATEGORY.md) instead of the framework name. The manifesto's prose below stands as originally written and is still usable for its argument and rhythm — just don't surface "In-House Growth Machine" as the public takeaway phrase in anything new drawn from it.
-
----
-
 # The Compounding Marketing Manifesto
+
+*This manifesto refers to "In-House Growth Machine" as the name of the underlying architecture — see FRAMEWORKS.md. The public shorthand for the same idea today is digital employees you own (see CATEGORY.md).*
 
 ## You Don't Have a Marketing Problem. You Have an Ownership Problem.
 
@@ -147,4 +145,3 @@ And it starts with knowing where your marketing intelligence lives right now.
 *Andy McClure is the founder of Longview Marketing and the originator of Compounding Marketing — the discipline of building marketing systems that get smarter over time because the intelligence lives inside the business that owns it. He serves independent service business owners in specialty trades, painting contracting, and industrial equipment who have cycled through agencies, spent without compounding, and reset every time a vendor relationship ended.*
 
 *[About Andy] | [Read the Full Manifesto]*
-
