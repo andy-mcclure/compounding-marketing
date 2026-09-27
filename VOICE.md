@@ -18,12 +18,12 @@ The personality above is always on. Dial the register by what the content is doi
 
 **First-contact / skeptical-prospect content** — most LinkedIn posts, video, anything a cold or warm-but-wary prospect meets first: dial toward restraint.
 
-- No clever or cute metaphors — a visible device undercuts the trusted-advisor premise the whole register depends on.
+- Analogies are fine when they clarify a hard idea — used sparingly, never to decorate or entertain. Cute or gimmicky ones still undercut the trusted-advisor premise this register depends on.
 - No staged hypotheticals ("imagine a competitor in your market doing X"). Readers clock these as a rhetorical trick instantly. Instead, state the verifiable macro reality, then honestly concede what isn't known: *"I don't know if one's entered your market yet, but the conditions are here."* Honesty about uncertainty builds more trust than false certainty does.
 - No slogan-y punchlines or gimmick text cards. If a post cites data, name the source plainly.
 - Preferred cadence: calm, first-person, peer-level. *"Here's where I'd slow you down." "I understand the instinct." "I'm not raising this to worry you."* Concern is created by the facts, not by copywriting energy.
 
-The signature phrases below built on analogy are strong teaching-content assets — keep using them there. Don't reach for a new one when writing first-contact LinkedIn copy; let the facts carry the weight instead.
+The signature phrases below built on analogy are strong teaching-content assets — keep using them there. Don't reach for one lightly in first-contact copy — only when it truly clarifies; let the facts carry the weight otherwise.
 
 ---
 
@@ -34,7 +34,7 @@ The signature phrases below built on analogy are strong teaching-content assets 
 - "You've been renting your marketing."
 - "Every time you switch vendors, you reset to zero."
 - "The intelligence walks out the door with them."
-- "Marketing isn't broken. It's just that nobody owns it."
+- "Marketing isn't broken. It's just misowned."
 - "You don't need to become a marketer. You need to own the system where marketing happens."
 - "The architect doesn't pour concrete. The architect ensures the concrete gets poured in the right place at the right time for the right reason."
 - "AI doesn't create strategy. It accelerates execution inside a structure that already makes sense."
