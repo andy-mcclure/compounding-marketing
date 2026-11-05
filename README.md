@@ -34,7 +34,7 @@ The market-facing description of this work is **digital employees you own** — 
 
 ## How To Use This Repository
 
-**For content creation:** Start with VOICE.md and CATEGORY.md. Every piece of content must be traceable to language confirmed here.
+**For content creation:** Start with VOICE.md (One Named Reader section first). Every piece of content must be traceable to language confirmed here. Signature phrases are for teaching content, not first-contact posts.
 
 **For offer development:** Start with OFFERS.md and ICA.md.
 
@@ -44,4 +44,4 @@ The market-facing description of this work is **digital employees you own** — 
 
 ---
 
-*Maintained by Longview Marketing. Last updated August 2026.*
+*Maintained by Longview Marketing. Last updated October 29, 2026.*

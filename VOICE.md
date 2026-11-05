@@ -18,7 +18,7 @@ The personality above is always on. Dial the register by what the content is doi
 
 **First-contact / skeptical-prospect content** — most LinkedIn posts, video, anything a cold or warm-but-wary prospect meets first: dial toward restraint.
 
-- Analogies are fine when they clarify a hard idea — used sparingly, never to decorate or entertain. Cute or gimmicky ones still undercut the trusted-advisor premise this register depends on.
+- Analogies are fine in any register — including first contact — when they clarify a hard idea. Used sparingly, never to decorate or entertain. Cute or gimmicky ones still undercut the trusted-advisor premise this register depends on.
 - No staged hypotheticals ("imagine a competitor in your market doing X"). Readers clock these as a rhetorical trick instantly. Instead, state the verifiable macro reality, then honestly concede what isn't known: *"I don't know if one's entered your market yet, but the conditions are here."* Honesty about uncertainty builds more trust than false certainty does.
 - No slogan-y punchlines or gimmick text cards. If a post cites data, name the source plainly.
 - Preferred cadence: calm, first-person, peer-level. *"Here's where I'd slow you down." "I understand the instinct." "I'm not raising this to worry you."* Concern is created by the facts, not by copywriting energy.
@@ -27,14 +27,33 @@ The signature phrases below built on analogy are strong teaching-content assets 
 
 ---
 
+## One Named Reader
+
+*Added Oct 29, 2026 after the voice interview. This section outranks everything below it.*
+
+Draft as if explaining to one named person across a table. For Longview content that person is one real owner of a long-running painting company, whether or not the post is about painters. Write *to* him, second person, not *about* the category he belongs to. "Every fall, painting companies collect estimates" fails. "It's super easy to get focused on the leads you need to fill next week's estimate calendar" passes.
+
+Before anything publishes, read every sentence and ask: would Andy say this sentence out loud to that owner? If not, cut it or say it the way he would.
+
+Andy on what makes him wince:
+- Opening by telling the reader something, with no warm-up. "Forcing our expertise on them."
+- Marching through facts with no emotion. These businesses are the owner's life's work. It's what he wakes up thinking about.
+- Authority without vulnerability or a lesson learned. Use Andy's own mistakes training his digital employees.
+- Sitting across the table telling the owner how the world works. Sit next to him and show him the problem instead.
+- Third person when second person is feasible.
+- Marketing and business jargon. Say leads and sales, not funnel velocity and top-line revenue.
+- Fear as a device. The facts are scary enough; the voice stays calm.
+
+Hedges are voice. Andy says "I could be wrong about this" and "nobody can predict." A draft with no uncertainty in it doesn't sound like him.
+
+---
+
 ## Signature Phrases
 
-*These are verbatim. Use them exactly as written.*
+*Teaching-content assets only (the book, long-form explainers, sales collateral). Do not reach for them in LinkedIn posts or blog openers. When one is used, quote it exactly. Two phrases were removed Oct 29, 2026 because Andy would not say them out loud to an owner: "The intelligence walks out the door with them" and "Marketing isn't broken. It's just misowned."*
 
 - "You've been renting your marketing."
 - "Every time you switch vendors, you reset to zero."
-- "The intelligence walks out the door with them."
-- "Marketing isn't broken. It's just misowned."
 - "You don't need to become a marketer. You need to own the system where marketing happens."
 - "The architect doesn't pour concrete. The architect ensures the concrete gets poured in the right place at the right time for the right reason."
 - "AI doesn't create strategy. It accelerates execution inside a structure that already makes sense."
@@ -55,6 +74,7 @@ The signature phrases below built on analogy are strong teaching-content assets 
 - "We're not trapping you with our AI. You're training yours."
 - "An employee that works twenty-four hours a day, gets smarter, and will never leave you — but only if you're the one training it."
 - "Digital employees you own."
+- "Fire us, and your team stays."
 - "I set service business owners up with digital employees they actually own — marketing that gets smarter instead of resetting every time they switch agencies." (This is the referral sentence — quote it verbatim.)
 
 ---
@@ -70,12 +90,27 @@ See ICA.md for the full segment breakdown behind these numbers.
 
 ## Language Andy Uses
 
-reset / resetting — compound / compounding — own / ownership — architecture / architect — intelligence — environment — vendor transition — institutional knowledge — decision-ready — rhythm — system — accumulate — portable — structure — digital employee(s)
+*Andy's own rulings, Oct 29, 2026:* reset to zero — renting your marketing — digital employee — AI agent / bot — funnel / pipeline — ideal client (never "ICP" or "avatar") — content — system / process — "Imagine…" — "I've seen this play out dozens of times" — secret sauce — life's work — team (of digital employees) — Fire us, and your team stays — leads, estimates, opportunities to quote a job
+
+*From the original list:* reset / resetting — compound / compounding — own / ownership — architecture / architect — intelligence — environment — vendor transition — institutional knowledge — decision-ready — rhythm — system — accumulate — portable — structure — digital employee(s)
 
 ---
 
 ## Language Andy Does Not Use
 
+*Andy's own rulings, Oct 29, 2026:*
+- "The intelligence walks out the door" / "misowned"
+- "In-House Growth Machine" and "Compounding Marketing" spoken to an owner (internal names; the owner hears "digital employees you own")
+- "unlock" / "supercharge"
+- "top-line revenue" / "ROI"
+- "ICP" / "avatar"
+- "Here's the thing:" / "Let's be honest:" / "The truth is:"
+- "Most painting companies…" / "Every fall, painting contractors…" — any opener about the category instead of to the reader
+- "bids" (homeowners ask for estimates; say leads, estimates, or opportunities to quote a job)
+- "army" of digital employees ("team" — army sounds ominous)
+- "It's not X. It's Y." — it depends; don't lean on it
+
+*From the original list:*
 - "Game-changer" / "revolutionary" / "disruptive"
 - "Crush it" / "dominate" / "kill it"
 - "Plug and play"
@@ -96,7 +131,7 @@ reset / resetting — compound / compounding — own / ownership — architectur
 - Contractions always; plain English over jargon
 - Active voice, strong verbs: "build," "own," "escape," "accelerate," "install"
 - No rhetorical questions as a substitute for a position
-- One analogy per idea, used precisely — reserved for teaching content, not first-contact copy (see Two Registers, above)
+- One analogy per idea, used precisely, in any register — only when it genuinely clarifies (see Two Registers, above)
 - Acknowledges complexity without hiding behind it
 - States conclusions first, then supports them
 - Does not soften claims that are accurate — and does not paper over genuine uncertainty with false confidence; concedes what isn't known, honestly
