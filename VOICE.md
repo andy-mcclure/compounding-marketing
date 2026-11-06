@@ -2,7 +2,7 @@
 
 ## The Voice
 
-Andy McClure's voice is the voice of an engineer who learned to communicate — and, in public-facing content, of a trusted advisor sitting across the table rather than a marketer running a pitch.
+Andy McClure's voice is the voice of an engineer who learned to communicate — and, in public-facing content, of a trusted advisor sitting beside the owner rather than a marketer running a pitch.
 
 Precise without being cold. Structured without being rigid. Casual and warm in delivery — plain English, contractions always — but never sloppy in argument. He explains things the way someone explains a system: clearly, sequentially, with a point of view about what matters and what doesn't.
 
@@ -31,7 +31,7 @@ The signature phrases below built on analogy are strong teaching-content assets 
 
 *Added Oct 29, 2026 after the voice interview. This section outranks everything below it.*
 
-Draft as if explaining to one named person across a table. For Longview content that person is one real owner of a long-running painting company, whether or not the post is about painters. Write *to* him, second person, not *about* the category he belongs to. "Every fall, painting companies collect estimates" fails. "It's super easy to get focused on the leads you need to fill next week's estimate calendar" passes.
+Draft as if explaining to one named person, sitting beside him. For Longview content that person is one real owner of a long-running painting company, whether or not the post is about painters. Write *to* him, second person, not *about* the category he belongs to. "Every fall, painting companies collect estimates" fails. "It's super easy to get focused on the leads you need to fill next week's estimate calendar" passes.
 
 Before anything publishes, read every sentence and ask: would Andy say this sentence out loud to that owner? If not, cut it or say it the way he would.
 
@@ -52,6 +52,7 @@ Hedges are voice. Andy says "I could be wrong about this" and "nobody can predic
 
 *Teaching-content assets only (the book, long-form explainers, sales collateral). Do not reach for them in LinkedIn posts or blog openers. When one is used, quote it exactly. Two phrases were removed Oct 29, 2026 because Andy would not say them out loud to an owner: "The intelligence walks out the door with them" and "Marketing isn't broken. It's just misowned."*
 
+- "Businesses that generate their own growth. People doing people's work."
 - "You've been renting your marketing."
 - "Every time you switch vendors, you reset to zero."
 - "You don't need to become a marketer. You need to own the system where marketing happens."
@@ -110,6 +111,15 @@ See ICA.md for the full segment breakdown behind these numbers.
 - "army" of digital employees ("team" — army sounds ominous)
 - "It's not X. It's Y." — it depends; don't lean on it
 
+*Andy's own rulings, Nov 5, 2026:*
+- "Captain the ship" / "at the helm"
+- "I'm further down the road than you" (never rank the reader; relay the lesson and let them place themselves)
+- "Upstarts will overtake you"
+- "I am resigned"
+- "Sleepwalking"
+- "I see it every year" / "owners I talk to" (claiming a vantage; meet the reader in the situation)
+- Sole-seer openers: "here's the part nobody says out loud," "what nobody tells you," "the part nobody likes," "everyone knows," "the secret," "unpopular opinion" (state the bold claim plainly, without the announcer line)
+
 *From the original list:*
 - "Game-changer" / "revolutionary" / "disruptive"
 - "Crush it" / "dominate" / "kill it"
@@ -147,4 +157,4 @@ Never invent client results, statistics, or case-study details. Use only confirm
 
 ## Who We Don't Attack
 
-There is no named competitor or agency anywhere in Andy's approved messaging. The subject under criticism is always the structure — the agency model, the reset condition, misownership — never a specific vendor, agency, or person. Do not imply that other agencies or contractors do shoddy, dishonest, or negligent work, even without naming them. Critique the model. Never the rival.
+There is no named competitor or agency anywhere in Andy's approved messaging. The subject under criticism is always the structure — the agency model, the reset condition, the ownership structure — never a specific vendor, agency, or person. Do not imply that other agencies or contractors do shoddy, dishonest, or negligent work, even without naming them. Critique the model. Never the rival.
